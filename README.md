@@ -13,6 +13,8 @@ python3
 requests (library)   
 
 # How To
-git clone https://github.com/EH30/getnitro
-cd getnitro
-pip install -r requirements.txt
+git clone https://github.com/EH30/getnitro   
+cd getnitro   
+pip install -r requirements.txt   
+replace and add new list of proxies in webreq.json   
+python getnitro.py
