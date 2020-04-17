@@ -1,0 +1,21 @@
+{
+    "proxy":[
+        "140.238.15.222:3128",
+        "159.203.21.171:8080",
+        "138.197.211.71:3128",
+        "134.35.192.48:8080",
+        "132.145.89.166:3128",
+        "132.145.82.248:3128",
+        "129.146.138.235:3128",
+        "108.61.156.175:80",
+        "104.43.244.233:80"
+    ],
+
+    "User-Agent":[
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0",
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36",
+        "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:24.0) Gecko/20100101 Firefox/24.0",
+        "Mozilla/5.0 CK={} (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+    ]
+}
