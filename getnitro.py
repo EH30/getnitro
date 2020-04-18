@@ -53,7 +53,7 @@ if __name__ == "__main__":
     while True:
         code = gencodes()
         try:
-            req = requests.get("https://discordapp.com/api/v6/entitlements/gift-codes/{0}?with_application=false&with_subscription_plan=true".format(code), useragent, proxies=proxy)
+            req = requests.get("https://discordapp.com/api/v6/entitlements/gift-codes/{0}?with_application=false&with_subscription_plan=true".format(code), headers=useragent, proxies=proxy)
             readJson = json.loads(req.content)
             
             if "message" not in readJson:
